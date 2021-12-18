@@ -48,11 +48,11 @@ h3 {text-align: center;
 .means {margin-bottom: 20px;}
 .meaning {
 text-align: justify;}
-.mr { font-family: 'Uncial Antiqua', cursive;
+.mr { ve;
      color:#84ad93;
+  text-decoration: inherit;}    
      
-     text-shadow: 3px 0 #232931;
-     text-decoration: inherit;}
+    
 .morerunes a{text-decoration: none;}
 .outcome {margin-top: 0;}
 h4 {text-align: center;
