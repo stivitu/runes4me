@@ -35,7 +35,7 @@ var randomImage4 = "r" + randomNumber4 + ".png";
 var randomSource4 = "images/" + randomImage4;
 document.querySelectorAll("img")[3].setAttribute("src", randomSource4);
 var audio1 = new Audio("sounds/jedna.mp3");
-document.querySelectorAll("#result").addEventListener("on click", audio1.play());
+document.querySelectorAll("#result").addEventListener("click", audio1.play());
 }
 
 function myFunction2(){
@@ -45,5 +45,5 @@ document.querySelectorAll("img")[1].setAttribute("src", source5);
 document.querySelectorAll("img")[2].setAttribute("src", source5);
 document.querySelectorAll("img")[3].setAttribute("src", source5);
 var audio1 = new Audio("sounds/jedna.mp3");
-document.querySelectorAll("#result").addEventListener("on click", audio1.play());
+document.querySelectorAll("#result").addEventListener("click", audio1.play());
 }
