@@ -81,8 +81,8 @@ footer p{
   font-family: 'Serif';}
 
   @media (max-width: 900px) {
-  .runecast1 {text-size-adjust: auto;}
-  .runecast2 {text-size-adjust: auto;}
+  .runecast1 img{width:31%;}
+  .runecast2 img{width:31%;}
   }
 
   @media (max-width: 750px) {
