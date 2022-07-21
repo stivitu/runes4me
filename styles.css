@@ -80,6 +80,11 @@ footer p{
   display:inline;
   font-family: 'Serif';}
 
+  @media (max-width: 900px) {
+  .runecast1 img{width:40%;}
+  .runecast2 img{width:40%;}
+  }
+
   @media (max-width: 750px) {
     .intro  {padding:5px;
       margin: 5px;
@@ -112,3 +117,5 @@ footer p{
     .heaven2 .runa{text-align:center;
      display:inline-table;}
     }
+
+
