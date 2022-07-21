@@ -80,7 +80,7 @@ footer p{
   display:inline;
   font-family: 'Serif';}
 
-  @media (max-width: 900px) {
+  @media (max-width: 950px) {
   .runecast1 img{width:31%;}
   .runecast2 img{width:31%;}
   }
